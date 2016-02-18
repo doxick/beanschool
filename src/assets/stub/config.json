@@ -1,0 +1,28 @@
+{
+  "classes": [
+    { // class
+      "id": 100,
+      "title": "Ratting classes 101",
+      "chapters":[
+        200
+      ]
+    }
+  ],
+  "chapters": [
+    { // chapter
+      "id": 200,
+      "title": "Test scene 1",
+      "scenes": [
+        300,
+        301
+      ]
+    }
+  ],
+  "scenes": [
+    { // scene
+      "id": 300,
+      "youtubeId": "vd6uQgUuuQQ",
+      "audioUrl": "assets/stub/audiotrack.mpg"
+    }
+  ]
+}

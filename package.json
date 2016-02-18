@@ -1,0 +1,52 @@
+{
+  "name": "beanschool",
+  "version": "0.0.1",
+  "description": "A learning environment for newbeans",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "events": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.1.18",
+    "babelify": "^7.2.0",
+    "browser-sync": "^2.11.0",
+    "browserify": "^12.0.1",
+    "eazy-logger": "^2.1.2",
+    "event-stream": "^3.3.2",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-changed": "^1.3.0",
+    "gulp-css-base64": "^1.3.4",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-iconfont": "^5.0.1",
+    "gulp-iconfont-css": "^2.0.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-less": "^3.0.5",
+    "gulp-newer": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-size": "^2.0.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-watch": "^4.3.5",
+    "gulp-watch-less": "^1.0.1",
+    "stringify": "^3.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.6.1",
+    "yargs": "^3.31.0"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doxick/beanschool.git"
+  },
+  "author": "Martijn Hermans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doxick/beanschool/issues"
+  },
+  "homepage": "https://github.com/doxick/beanschool#readme"
+}
