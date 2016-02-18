@@ -2,7 +2,7 @@
 Newbean school
 
 ### running it:
-npm install
-gulp watch
+- npm install
+- gulp watch
 
 ## enjoy!
